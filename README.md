@@ -1,8 +1,7 @@
 <div align=center>
  
-# 🚀 Cosmic - Mirai modified 🚀
+# 🚀 CNC - Mirai modified 🚀
 
-# Store: https://condi.billgang.store/
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/Cosmic-Mirai?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -17,12 +16,8 @@
  </div>
  
  ## Logs</br>
- - NEW THEME!
  - ALL METHODS WORKING!
  - UPDATE ANY SELFREPS!
- 
-## Screenshot
-![lk](https://i.ibb.co/Y2gH8Vp/neww.png)
 
 
 # README ♥️
@@ -55,5 +50,5 @@ What you use it for is up to you, we do not take any responsibility for this act
 
 # CONTACT:
 ```sh
-Telegram: @learneverything9
+Discord: @mycnc
 ```
